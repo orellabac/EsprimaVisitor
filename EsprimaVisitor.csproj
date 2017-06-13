@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <Description>General Visitor to Transverse the Esprima AST</Description>
+    <Authors>Mauricio Rojas</Authors>
+    <Company></Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="esprima" Version="1.0.0-beta-001" />
+  </ItemGroup>
+
+</Project>
